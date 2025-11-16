@@ -41,3 +41,6 @@ M = E – N + 2P
 M = 10 – 9 + 2(1)
 M = 10 – 9 + 2
 M = 3
+
+## Conta da Complexidade Ciclomática
+<img width="359" height="377" alt="image" src="https://github.com/user-attachments/assets/4b2771f0-44f3-4186-9ac8-712c8cbcb156" />
