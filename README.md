@@ -3,11 +3,10 @@
 # Notação de Grafo de Fluxo
 
 ## Grafo de Fluxo - conectarBD()
-<img width="2248" height="2540" alt="image" src="https://github.com/user-attachments/assets/ee93a48f-9f63-4e82-a817-696e8ed5a4a7" />
+<img width="2248" height="2540" alt="image" src="https://github.com/user-attachments/assets/b221e267-d4d8-48c8-a369-74763c685a37" />
 
 ## Grafo de Fluxo - verificarUsuario()
-<img width="2584" height="3296" alt="image" src="https://github.com/user-attachments/assets/1f80185a-155c-4847-bac7-1177a227ecef" />
-
+<img width="2584" height="3296" alt="image" src="https://github.com/user-attachments/assets/4f91c6cb-8dda-47fa-8fca-f4818b7071cd" />
 
 
 
