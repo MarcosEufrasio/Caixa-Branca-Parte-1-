@@ -6,7 +6,8 @@
 <img width="2248" height="2540" alt="image" src="https://github.com/user-attachments/assets/ee93a48f-9f63-4e82-a817-696e8ed5a4a7" />
 
 ## Grafo de Fluxo - verificarUsuario()
-<img width="2584" height="3296" alt="image" src="https://github.com/user-attachments/assets/ecd75616-282f-4980-9fa3-4cfb044f6e7a" />
+<img width="2584" height="3296" alt="image" src="https://github.com/user-attachments/assets/dc7e8ce4-3aa1-49cf-92ea-a91fec595bfa" />
+
 
 
 ## NOTAÇÃO GRAFO DE FLUXO - Método verificarUsuario()
