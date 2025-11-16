@@ -32,11 +32,13 @@ N1 → N2 → N3 → N5 → N6
 # Complexidade Ciclomática
 
 ## conectarBD() - 6 nós e 6 arestas
+
 M = E - N + 2
 M = 6 - 6 + 2
 M = 2
 
 ## verificarUsuario() - 9 nós e 10 arestas
+
 M = E – N + 2P
 M = 10 – 9 + 2(1)
 M = 10 – 9 + 2
